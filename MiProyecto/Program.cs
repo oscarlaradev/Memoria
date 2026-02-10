@@ -9,10 +9,8 @@ namespace MiProyecto
             ListaEnlazada lista = new ListaEnlazada();
             bool salir = false;
 
-            Console.WriteLine("╔════════════════════════════════════════════════╗");
-            Console.WriteLine("║     LISTA ENLAZADA SIMPLE - MENÚ PRINCIPAL    ║");
-            Console.WriteLine("╚════════════════════════════════════════════════╝");
-            Console.WriteLine();
+            Console.WriteLine("LISTA ENLAZADA SIMPLE");
+            Console.WriteLine("---------------------\n");
 
             while (!salir)
             {
@@ -45,43 +43,39 @@ namespace MiProyecto
 
                     case "6":
                         salir = true;
-                        Console.WriteLine("👋 ¡Hasta luego!");
+                        Console.WriteLine("Saliendo...");
                         break;
 
                     default:
-                        Console.WriteLine("❌ Opción no válida. Intenta de nuevo.");
+                        Console.WriteLine("Opcion no valida.");
                         break;
                 }
 
                 if (!salir)
                 {
-                    Console.WriteLine("\nPresiona cualquier tecla para continuar...");
-                    Console.ReadKey();
+                    Console.WriteLine("\nPresiona Enter para continuar...");
+                    Console.ReadLine();
                     Console.Clear();
-                    Console.WriteLine("╔════════════════════════════════════════════════╗");
-                    Console.WriteLine("║     LISTA ENLAZADA SIMPLE - MENÚ PRINCIPAL    ║");
-                    Console.WriteLine("╚════════════════════════════════════════════════╝");
-                    Console.WriteLine();
+                    Console.WriteLine("LISTA ENLAZADA SIMPLE");
+                    Console.WriteLine("---------------------\n");
                 }
             }
         }
 
         static void MostrarMenu()
         {
-            Console.WriteLine("┌────────────────────────────────────────────────┐");
-            Console.WriteLine("│  1. Insertar Elemento                         │");
-            Console.WriteLine("│  2. Borrar Elemento por Posición              │");
-            Console.WriteLine("│  3. Borrar Elemento por Contenido             │");
-            Console.WriteLine("│  4. Imprimir Lista                            │");
-            Console.WriteLine("│  5. Ordenar Lista                             │");
-            Console.WriteLine("│  6. Salir                                     │");
-            Console.WriteLine("└────────────────────────────────────────────────┘");
-            Console.Write("\nSelecciona una opción: ");
+            Console.WriteLine("1. Insertar Elemento");
+            Console.WriteLine("2. Borrar Elemento por Posicion");
+            Console.WriteLine("3. Borrar Elemento por Contenido");
+            Console.WriteLine("4. Imprimir Lista");
+            Console.WriteLine("5. Ordenar Lista");
+            Console.WriteLine("6. Salir");
+            Console.Write("\nOpcion: ");
         }
 
         static void InsertarElemento(ListaEnlazada lista)
         {
-            Console.Write("Ingresa el número a insertar: ");
+            Console.Write("Numero a insertar: ");
             string? entrada = Console.ReadLine();
 
             if (int.TryParse(entrada, out int numero))
@@ -90,7 +84,7 @@ namespace MiProyecto
             }
             else
             {
-                Console.WriteLine("❌ Error: Debes ingresar un número válido");
+                Console.WriteLine("Error: Numero invalido");
             }
         }
 
@@ -98,11 +92,11 @@ namespace MiProyecto
         {
             if (lista.EstaVacia())
             {
-                Console.WriteLine("❌ La lista está vacía. No hay elementos para borrar.");
+                Console.WriteLine("La lista esta vacia.");
                 return;
             }
 
-            Console.Write("Ingresa la posición a borrar (inicia en 0): ");
+            Console.Write("Posicion a borrar: ");
             string? entrada = Console.ReadLine();
 
             if (int.TryParse(entrada, out int posicion))
@@ -111,7 +105,7 @@ namespace MiProyecto
             }
             else
             {
-                Console.WriteLine("❌ Error: Debes ingresar un número válido");
+                Console.WriteLine("Error: Numero invalido");
             }
         }
 
@@ -119,11 +113,11 @@ namespace MiProyecto
         {
             if (lista.EstaVacia())
             {
-                Console.WriteLine("❌ La lista está vacía. No hay elementos para borrar.");
+                Console.WriteLine("La lista esta vacia.");
                 return;
             }
 
-            Console.Write("Ingresa el valor a borrar: ");
+            Console.Write("Valor a borrar: ");
             string? entrada = Console.ReadLine();
 
             if (int.TryParse(entrada, out int valor))
@@ -132,7 +126,7 @@ namespace MiProyecto
             }
             else
             {
-                Console.WriteLine("❌ Error: Debes ingresar un número válido");
+                Console.WriteLine("Error: Numero invalido");
             }
         }
     }

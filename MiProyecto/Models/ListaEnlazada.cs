@@ -22,7 +22,7 @@ namespace MiProyecto.Models
             if (cabeza == null)
             {
                 cabeza = nuevoNodo;
-                Console.WriteLine($"✓ Elemento {dato} insertado en la lista (primer elemento)");
+                Console.WriteLine($"Elemento {dato} insertado");
                 return;
             }
 
@@ -33,7 +33,7 @@ namespace MiProyecto.Models
             }
 
             actual.Siguiente = nuevoNodo;
-            Console.WriteLine($"✓ Elemento {dato} insertado al final de la lista");
+            Console.WriteLine($"Elemento {dato} insertado");
         }
 
         /// <summary>
@@ -43,13 +43,13 @@ namespace MiProyecto.Models
         {
             if (cabeza == null)
             {
-                Console.WriteLine("❌ Error: La lista está vacía");
+                Console.WriteLine("Error: La lista esta vacia");
                 return;
             }
 
             if (posicion < 0)
             {
-                Console.WriteLine("❌ Error: La posición debe ser un número positivo");
+                Console.WriteLine("Error: La posicion debe ser positiva");
                 return;
             }
 
@@ -58,7 +58,7 @@ namespace MiProyecto.Models
             {
                 int datoEliminado = cabeza.Dato;
                 cabeza = cabeza.Siguiente;
-                Console.WriteLine($"✓ Elemento {datoEliminado} eliminado de la posición 0");
+                Console.WriteLine($"Elemento {datoEliminado} eliminado");
                 return;
             }
 
@@ -74,13 +74,13 @@ namespace MiProyecto.Models
 
             if (actual == null || actual.Siguiente == null)
             {
-                Console.WriteLine($"❌ Error: La posición {posicion} no existe en la lista");
+                Console.WriteLine($"Error: La posicion {posicion} no existe");
                 return;
             }
 
             int dato = actual.Siguiente.Dato;
             actual.Siguiente = actual.Siguiente.Siguiente;
-            Console.WriteLine($"✓ Elemento {dato} eliminado de la posición {posicion}");
+            Console.WriteLine($"Elemento {dato} eliminado");
         }
 
         /// <summary>
@@ -90,7 +90,7 @@ namespace MiProyecto.Models
         {
             if (cabeza == null)
             {
-                Console.WriteLine("❌ Error: La lista está vacía");
+                Console.WriteLine("Error: La lista esta vacia");
                 return;
             }
 
@@ -98,7 +98,7 @@ namespace MiProyecto.Models
             if (cabeza.Dato == dato)
             {
                 cabeza = cabeza.Siguiente;
-                Console.WriteLine($"✓ Elemento {dato} eliminado de la lista");
+                Console.WriteLine($"Elemento {dato} eliminado");
                 return;
             }
 
@@ -111,12 +111,12 @@ namespace MiProyecto.Models
 
             if (actual.Siguiente == null)
             {
-                Console.WriteLine($"❌ Error: El elemento {dato} no se encontró en la lista");
+                Console.WriteLine($"Error: El elemento {dato} no se encontro");
                 return;
             }
 
             actual.Siguiente = actual.Siguiente.Siguiente;
-            Console.WriteLine($"✓ Elemento {dato} eliminado de la lista");
+            Console.WriteLine($"Elemento {dato} eliminado");
         }
 
         /// <summary>
@@ -126,27 +126,23 @@ namespace MiProyecto.Models
         {
             if (cabeza == null)
             {
-                Console.WriteLine("La lista está vacía");
+                Console.WriteLine("La lista esta vacia");
                 return;
             }
 
-            Console.WriteLine("\n═══════════════════════════════════");
-            Console.WriteLine("       CONTENIDO DE LA LISTA");
-            Console.WriteLine("═══════════════════════════════════");
+            Console.WriteLine("\nContenido de la lista:");
 
             Nodo? actual = cabeza;
             int posicion = 0;
 
             while (actual != null)
             {
-                Console.WriteLine($"  Posición {posicion}: {actual.Dato}");
+                Console.WriteLine($"Posicion {posicion}: {actual.Dato}");
                 actual = actual.Siguiente;
                 posicion++;
             }
 
-            Console.WriteLine("═══════════════════════════════════");
-            Console.WriteLine($"Total de elementos: {posicion}");
-            Console.WriteLine();
+            Console.WriteLine($"Total: {posicion} elementos\n");
         }
 
         /// <summary>
@@ -156,7 +152,7 @@ namespace MiProyecto.Models
         {
             if (cabeza == null || cabeza.Siguiente == null)
             {
-                Console.WriteLine("✓ La lista ya está ordenada (0 o 1 elementos)");
+                Console.WriteLine("Lista ordenada");
                 return;
             }
 
@@ -180,7 +176,7 @@ namespace MiProyecto.Models
                 }
             } while (intercambio);
 
-            Console.WriteLine("✓ Lista ordenada de menor a mayor");
+            Console.WriteLine("Lista ordenada");
         }
 
         /// <summary>
