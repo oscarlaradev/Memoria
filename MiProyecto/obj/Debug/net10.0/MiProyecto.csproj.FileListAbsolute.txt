@@ -1,0 +1,15 @@
+/workspaces/Memoria/MiProyecto/bin/Debug/net10.0/MiProyecto
+/workspaces/Memoria/MiProyecto/bin/Debug/net10.0/MiProyecto.deps.json
+/workspaces/Memoria/MiProyecto/bin/Debug/net10.0/MiProyecto.runtimeconfig.json
+/workspaces/Memoria/MiProyecto/bin/Debug/net10.0/MiProyecto.dll
+/workspaces/Memoria/MiProyecto/bin/Debug/net10.0/MiProyecto.pdb
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.AssemblyInfoInputs.cache
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.AssemblyInfo.cs
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.sourcelink.json
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.dll
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/refint/MiProyecto.dll
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.pdb
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/MiProyecto.genruntimeconfig.cache
+/workspaces/Memoria/MiProyecto/obj/Debug/net10.0/ref/MiProyecto.dll
