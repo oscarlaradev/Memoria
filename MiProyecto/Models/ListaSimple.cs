@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ProyectoListas
 {
-    // Cambiamos el nombre de la clase para que suene más pro
+   
     public class ListaSimple
     {
         public Nodo nodoInicio;
