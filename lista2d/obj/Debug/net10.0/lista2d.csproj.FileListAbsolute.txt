@@ -1,0 +1,15 @@
+/workspaces/Memoria/lista2d/bin/Debug/net10.0/lista2d
+/workspaces/Memoria/lista2d/bin/Debug/net10.0/lista2d.deps.json
+/workspaces/Memoria/lista2d/bin/Debug/net10.0/lista2d.runtimeconfig.json
+/workspaces/Memoria/lista2d/bin/Debug/net10.0/lista2d.dll
+/workspaces/Memoria/lista2d/bin/Debug/net10.0/lista2d.pdb
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.AssemblyInfoInputs.cache
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.AssemblyInfo.cs
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.sourcelink.json
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.dll
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/refint/lista2d.dll
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.pdb
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/lista2d.genruntimeconfig.cache
+/workspaces/Memoria/lista2d/obj/Debug/net10.0/ref/lista2d.dll
