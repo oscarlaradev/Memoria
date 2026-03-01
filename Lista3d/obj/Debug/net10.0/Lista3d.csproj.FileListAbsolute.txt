@@ -1,0 +1,15 @@
+/workspaces/Memoria/Lista3d/bin/Debug/net10.0/Lista3d
+/workspaces/Memoria/Lista3d/bin/Debug/net10.0/Lista3d.deps.json
+/workspaces/Memoria/Lista3d/bin/Debug/net10.0/Lista3d.runtimeconfig.json
+/workspaces/Memoria/Lista3d/bin/Debug/net10.0/Lista3d.dll
+/workspaces/Memoria/Lista3d/bin/Debug/net10.0/Lista3d.pdb
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.AssemblyInfoInputs.cache
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.AssemblyInfo.cs
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.sourcelink.json
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.dll
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/refint/Lista3d.dll
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.pdb
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/Lista3d.genruntimeconfig.cache
+/workspaces/Memoria/Lista3d/obj/Debug/net10.0/ref/Lista3d.dll
