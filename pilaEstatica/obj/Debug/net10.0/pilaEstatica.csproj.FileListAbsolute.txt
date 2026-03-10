@@ -1,0 +1,15 @@
+/workspaces/Memoria/pilaEstatica/bin/Debug/net10.0/pilaEstatica
+/workspaces/Memoria/pilaEstatica/bin/Debug/net10.0/pilaEstatica.deps.json
+/workspaces/Memoria/pilaEstatica/bin/Debug/net10.0/pilaEstatica.runtimeconfig.json
+/workspaces/Memoria/pilaEstatica/bin/Debug/net10.0/pilaEstatica.dll
+/workspaces/Memoria/pilaEstatica/bin/Debug/net10.0/pilaEstatica.pdb
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.AssemblyInfoInputs.cache
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.AssemblyInfo.cs
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.sourcelink.json
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.dll
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/refint/pilaEstatica.dll
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.pdb
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/pilaEstatica.genruntimeconfig.cache
+/workspaces/Memoria/pilaEstatica/obj/Debug/net10.0/ref/pilaEstatica.dll

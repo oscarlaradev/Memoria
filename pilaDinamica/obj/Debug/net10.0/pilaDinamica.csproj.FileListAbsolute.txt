@@ -1,0 +1,15 @@
+/workspaces/Memoria/pilaDinamica/bin/Debug/net10.0/pilaDinamica
+/workspaces/Memoria/pilaDinamica/bin/Debug/net10.0/pilaDinamica.deps.json
+/workspaces/Memoria/pilaDinamica/bin/Debug/net10.0/pilaDinamica.runtimeconfig.json
+/workspaces/Memoria/pilaDinamica/bin/Debug/net10.0/pilaDinamica.dll
+/workspaces/Memoria/pilaDinamica/bin/Debug/net10.0/pilaDinamica.pdb
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.AssemblyInfoInputs.cache
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.AssemblyInfo.cs
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.sourcelink.json
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.dll
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/refint/pilaDinamica.dll
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.pdb
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/pilaDinamica.genruntimeconfig.cache
+/workspaces/Memoria/pilaDinamica/obj/Debug/net10.0/ref/pilaDinamica.dll

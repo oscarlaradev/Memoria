@@ -1,0 +1,15 @@
+/workspaces/Memoria/colaEstatica/bin/Debug/net10.0/colaEstatica
+/workspaces/Memoria/colaEstatica/bin/Debug/net10.0/colaEstatica.deps.json
+/workspaces/Memoria/colaEstatica/bin/Debug/net10.0/colaEstatica.runtimeconfig.json
+/workspaces/Memoria/colaEstatica/bin/Debug/net10.0/colaEstatica.dll
+/workspaces/Memoria/colaEstatica/bin/Debug/net10.0/colaEstatica.pdb
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.AssemblyInfoInputs.cache
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.AssemblyInfo.cs
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.sourcelink.json
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.dll
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/refint/colaEstatica.dll
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.pdb
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/colaEstatica.genruntimeconfig.cache
+/workspaces/Memoria/colaEstatica/obj/Debug/net10.0/ref/colaEstatica.dll

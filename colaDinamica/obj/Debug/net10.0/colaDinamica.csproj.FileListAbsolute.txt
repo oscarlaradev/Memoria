@@ -1,0 +1,15 @@
+/workspaces/Memoria/colaDinamica/bin/Debug/net10.0/colaDinamica
+/workspaces/Memoria/colaDinamica/bin/Debug/net10.0/colaDinamica.deps.json
+/workspaces/Memoria/colaDinamica/bin/Debug/net10.0/colaDinamica.runtimeconfig.json
+/workspaces/Memoria/colaDinamica/bin/Debug/net10.0/colaDinamica.dll
+/workspaces/Memoria/colaDinamica/bin/Debug/net10.0/colaDinamica.pdb
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.AssemblyInfoInputs.cache
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.AssemblyInfo.cs
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.sourcelink.json
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.dll
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/refint/colaDinamica.dll
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.pdb
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/colaDinamica.genruntimeconfig.cache
+/workspaces/Memoria/colaDinamica/obj/Debug/net10.0/ref/colaDinamica.dll
