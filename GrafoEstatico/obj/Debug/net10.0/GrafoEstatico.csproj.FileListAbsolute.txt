@@ -1,0 +1,15 @@
+/workspaces/Memoria/GrafoEstatico/bin/Debug/net10.0/GrafoEstatico
+/workspaces/Memoria/GrafoEstatico/bin/Debug/net10.0/GrafoEstatico.deps.json
+/workspaces/Memoria/GrafoEstatico/bin/Debug/net10.0/GrafoEstatico.runtimeconfig.json
+/workspaces/Memoria/GrafoEstatico/bin/Debug/net10.0/GrafoEstatico.dll
+/workspaces/Memoria/GrafoEstatico/bin/Debug/net10.0/GrafoEstatico.pdb
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.AssemblyInfoInputs.cache
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.AssemblyInfo.cs
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.sourcelink.json
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.dll
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/refint/GrafoEstatico.dll
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.pdb
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/GrafoEstatico.genruntimeconfig.cache
+/workspaces/Memoria/GrafoEstatico/obj/Debug/net10.0/ref/GrafoEstatico.dll

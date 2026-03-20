@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("pilaDinamica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a58accaba4895bbdf6a98a3dc24ceb8fbeb4691e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c70c30cf53a96ad6ca22859805849af4378911")]
 [assembly: System.Reflection.AssemblyProductAttribute("pilaDinamica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("pilaDinamica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
