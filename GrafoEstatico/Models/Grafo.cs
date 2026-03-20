@@ -9,7 +9,7 @@ namespace GrafoEstatico.Models
 
         public Grafo(int vertices)
         {
-            this.numVertices = numVertices;
+            this.numVertices = vertices;
             data = new double[numVertices, numVertices];
         }
         public void setEdge(int i,int j, double weight)
