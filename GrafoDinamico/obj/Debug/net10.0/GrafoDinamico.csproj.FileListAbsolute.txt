@@ -1,0 +1,15 @@
+/workspaces/Memoria/GrafoDinamico/bin/Debug/net10.0/GrafoDinamico
+/workspaces/Memoria/GrafoDinamico/bin/Debug/net10.0/GrafoDinamico.deps.json
+/workspaces/Memoria/GrafoDinamico/bin/Debug/net10.0/GrafoDinamico.runtimeconfig.json
+/workspaces/Memoria/GrafoDinamico/bin/Debug/net10.0/GrafoDinamico.dll
+/workspaces/Memoria/GrafoDinamico/bin/Debug/net10.0/GrafoDinamico.pdb
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.AssemblyInfoInputs.cache
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.AssemblyInfo.cs
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.sourcelink.json
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.dll
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/refint/GrafoDinamico.dll
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.pdb
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/GrafoDinamico.genruntimeconfig.cache
+/workspaces/Memoria/GrafoDinamico/obj/Debug/net10.0/ref/GrafoDinamico.dll

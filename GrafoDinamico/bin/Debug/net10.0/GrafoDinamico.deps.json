@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GrafoDinamico/1.0.0": {
+        "runtime": {
+          "GrafoDinamico.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GrafoDinamico/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
