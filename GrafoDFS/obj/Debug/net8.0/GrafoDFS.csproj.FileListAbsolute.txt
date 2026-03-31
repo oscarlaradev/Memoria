@@ -1,0 +1,15 @@
+/workspaces/Memoria/GrafoDFS/bin/Debug/net8.0/GrafoDFS
+/workspaces/Memoria/GrafoDFS/bin/Debug/net8.0/GrafoDFS.deps.json
+/workspaces/Memoria/GrafoDFS/bin/Debug/net8.0/GrafoDFS.runtimeconfig.json
+/workspaces/Memoria/GrafoDFS/bin/Debug/net8.0/GrafoDFS.dll
+/workspaces/Memoria/GrafoDFS/bin/Debug/net8.0/GrafoDFS.pdb
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.AssemblyInfoInputs.cache
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.AssemblyInfo.cs
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.sourcelink.json
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.dll
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/refint/GrafoDFS.dll
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.pdb
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/GrafoDFS.genruntimeconfig.cache
+/workspaces/Memoria/GrafoDFS/obj/Debug/net8.0/ref/GrafoDFS.dll
