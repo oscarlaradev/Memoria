@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("GrafoDinamico2")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("GrafoBFS")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e923bfa1590e1ed1afe04faa84f648f50a046750")]
-[assembly: System.Reflection.AssemblyProductAttribute("GrafoDinamico2")]
-[assembly: System.Reflection.AssemblyTitleAttribute("GrafoDinamico2")]
+[assembly: System.Reflection.AssemblyProductAttribute("GrafoBFS")]
+[assembly: System.Reflection.AssemblyTitleAttribute("GrafoBFS")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.

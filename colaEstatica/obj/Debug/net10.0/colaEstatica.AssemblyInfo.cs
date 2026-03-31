@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("colaEstatica")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f875f345be7db246f714514200d0b5a9ed87a2d5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e923bfa1590e1ed1afe04faa84f648f50a046750")]
 [assembly: System.Reflection.AssemblyProductAttribute("colaEstatica")]
 [assembly: System.Reflection.AssemblyTitleAttribute("colaEstatica")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

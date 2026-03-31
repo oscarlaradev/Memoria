@@ -1,0 +1,15 @@
+/workspaces/Memoria/GrafoBFS/bin/Debug/net10.0/GrafoBFS
+/workspaces/Memoria/GrafoBFS/bin/Debug/net10.0/GrafoBFS.deps.json
+/workspaces/Memoria/GrafoBFS/bin/Debug/net10.0/GrafoBFS.runtimeconfig.json
+/workspaces/Memoria/GrafoBFS/bin/Debug/net10.0/GrafoBFS.dll
+/workspaces/Memoria/GrafoBFS/bin/Debug/net10.0/GrafoBFS.pdb
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.AssemblyInfoInputs.cache
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.AssemblyInfo.cs
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.csproj.CoreCompileInputs.cache
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.sourcelink.json
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.dll
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/refint/GrafoBFS.dll
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.pdb
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/GrafoBFS.genruntimeconfig.cache
+/workspaces/Memoria/GrafoBFS/obj/Debug/net10.0/ref/GrafoBFS.dll

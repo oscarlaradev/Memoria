@@ -27,6 +27,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoDinamico2", "GrafoDina
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoDFS", "GrafoDFS\GrafoDFS.csproj", "{BE9C6D64-3FCF-4DD1-97A9-C415EE749A92}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrafoBFS", "GrafoBFS\GrafoBFS.csproj", "{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -169,6 +171,18 @@ Global
 		{BE9C6D64-3FCF-4DD1-97A9-C415EE749A92}.Release|x64.Build.0 = Release|Any CPU
 		{BE9C6D64-3FCF-4DD1-97A9-C415EE749A92}.Release|x86.ActiveCfg = Release|Any CPU
 		{BE9C6D64-3FCF-4DD1-97A9-C415EE749A92}.Release|x86.Build.0 = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|x64.Build.0 = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Debug|x86.Build.0 = Debug|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|x64.ActiveCfg = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|x64.Build.0 = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|x86.ActiveCfg = Release|Any CPU
+		{A1F54C2E-8D4A-4E63-9FA8-5E3D6B4C1122}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
